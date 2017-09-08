@@ -85,7 +85,7 @@ body{
   top: 0;
   left: 100%;
   width: 0px;
-  transition: .8s;
+  transition: .5s;
 }
 .breeds.active {
   top: 0;
@@ -96,7 +96,6 @@ body{
   position: relative;
   top: 0;
   left: 0;
-  transition: 0.5s
 }
 .grid-sizer,
 .grid {
@@ -121,7 +120,7 @@ body{
   padding: 0;
   margin: 0;
   list-style: none;
-  transition: .8s;
+  transition: .5s;
 }
 .breed{
   position: relative;
